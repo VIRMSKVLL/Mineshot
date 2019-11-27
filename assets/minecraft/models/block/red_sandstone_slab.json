@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "block/red_terracotta",
+		"top": "block/white_terracotta",
+		"side": "block/red_terracotta"
+	}
+}

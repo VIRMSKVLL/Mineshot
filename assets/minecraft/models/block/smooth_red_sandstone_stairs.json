@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/stairs",
+	"textures": {
+		"3": "block/white_terracotta",
+		"4": "block/white_terracotta",
+		"particle": "block/white_terracotta",
+		"bottom": "block/white_terracotta",
+		"top": "block/white_terracotta",
+		"side": "block/white_terracotta"
+	}
+}

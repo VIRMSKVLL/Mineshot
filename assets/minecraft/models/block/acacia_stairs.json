@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/stairs",
+	"textures": {
+		"bottom": "block/glen_sand",
+		"top": "block/glen_sand",
+		"side": "block/glen_sand"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flower_banner_pattern"
+	},
+	"display": {
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	}
+}
